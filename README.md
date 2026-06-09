@@ -9,3 +9,5 @@ Note: This project was developed and tested on Linux. The provided executable is
 cargo run
 
 or run the compiled executable from the target/release directory.
+
+Built while learning Rust and experimenting with functions, loops, ownership, references, and basic program structure.
