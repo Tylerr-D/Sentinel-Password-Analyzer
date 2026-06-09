@@ -7,4 +7,5 @@ Note: This project was developed and tested on Linux. The provided executable is
 
 ## Running
 cargo run
+
 or run the compiled executable from the target/release directory.
